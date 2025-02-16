@@ -17,7 +17,8 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 
 Email: hasija.dhiraj1@gmail.com
-Acknowledgments
+
+# Acknowledgments
 A huge thank you to the Code Basics for inspiring this project.
 Thanks to the open-source community and all contributors to the libraries and tools used in this project.
 Special mention to the developers behind modern AI frameworks that make projects like this possible.
